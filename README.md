@@ -57,4 +57,4 @@ streamlit run app.py
 | 12345      | 23        | 5         | 200.00   |
 
 ## 🧠 Authors
-Built by [Your Name] as a demo project for customer analytics and ML explainability.
+Built by Stella D. as a demo project for customer analytics and ML explainability.
